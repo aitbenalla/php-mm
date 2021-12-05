@@ -1,1 +1,1 @@
-# php-mm
+# PHP Magic Methods
